@@ -9,12 +9,12 @@ Each day, I’ll be creating & uploading one slick, aesthetic, and useful UI ani
 ## 🗓️ Challenge Schedule
 
 | Day | Animation Name             | Link               |
-|-----|----------------------------|--------------------|
-| 01  | iOS Hello Animation        | [View](./day-01)   |
-| 02  | Coming Soon...             | 🔒                |
-| 03  | Coming Soon...             | 🔒                |
-| ... | ...                        | ...                |
-| 25  | Final Banger Animation     | 🔒                |
+|-----|----------------------------|-------------------- |
+| 01  | iOS Hello Animation        | [View]([./day-01](https://www.figma.com/design/pProcb7DCOUBz0C9UWAmQg/Top-25-Bes-FIGMA-Projects?node-id=3-9&t=nz06hx34ntzon6wy-1))|
+| 02  | GPT Website Hero Section   | 🔒                 |
+| 03  | Ed-Tech Landing Page       | [View](https://www.figma.com/design/pProcb7DCOUBz0C9UWAmQg/Top-25-Bes-FIGMA-Projects?node-id=21-2&t=nBmIUKdWwTjYgw39-1)|
+| ... | ...                        | ...                 |
+| 25  | Final Banger Animation     | 🔒                  |
 
 > 🧠 Each animation includes the `.fig` file + preview + README
 
