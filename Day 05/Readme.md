@@ -5,7 +5,8 @@ This UI represents a high-energy, luxury-streetwear landing page for a fictional
 ---
 
 ## 🔍 Preview
-![preview](./preview.mp4)
+
+![preview](preview.png)
 
 ---
 
@@ -28,8 +29,8 @@ Aimed for a niche of gamers, fashion enthusiasts, and streetwear lovers who want
 
 ### 🛠️ Tech Plan (Coming Soon)
 
-- React + Tailwind UI  
-- Responsive behavior for mobile screens  
+- React + Tailwind UI
+- Responsive behavior for mobile screens
 - Fire animation using `Framer Motion` or CSS 🔥
 
 ---
