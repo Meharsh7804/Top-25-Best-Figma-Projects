@@ -7,7 +7,7 @@ Today I created a minimal yet visually rich **Freelancer Landing Page**.
 
 ## 🔍 Preview
 
-![x`preview](preview.jpg)
+![preview](preview.jpg)
 
 ---
 
