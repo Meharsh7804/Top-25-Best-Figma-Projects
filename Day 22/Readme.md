@@ -5,9 +5,16 @@ Today’s design is dedicated to clean, eco-friendly transport with a **modern l
 
 ---
 
+## 🔍 Preview
+
+![preview](preview.png)
+
+---
+
 ## 🌱 Theme
 
 Focus on:
+
 - 🚴‍♀️ Sustainable transportation
 - ⚡ Modern electric tech
 - 🧊 Sleek UI using glassmorphism
@@ -16,19 +23,19 @@ Focus on:
 
 ## ✨ Features
 
-- 🧊 **Glass effect hero section** with left-text, right-product layout  
-- 🌐 Navigation: Home, Bike, Equipment’s, Support  
-- ⚙️ Two CTAs: *Explore Bike* and *View Catalog*  
-- 🖼️ Large visual focus on the product  
-- ↕️ “Scroll down for more” indicator  
+- 🧊 **Glass effect hero section** with left-text, right-product layout
+- 🌐 Navigation: Home, Bike, Equipment’s, Support
+- ⚙️ Two CTAs: _Explore Bike_ and _View Catalog_
+- 🖼️ Large visual focus on the product
+- ↕️ “Scroll down for more” indicator
 - 📱 Socials integrated (Instagram, Facebook, LinkedIn)
 
 ---
 
 ## 📐 Design Details
 
-- Typography: `Inter Bold` for headings, `Inter Regular` for paragraph  
-- Colors: Monochrome + slight blue tint, matching the tech aesthetic  
+- Typography: `Inter Bold` for headings, `Inter Regular` for paragraph
+- Colors: Monochrome + slight blue tint, matching the tech aesthetic
 - Layout: **12-grid responsive system**
 
 ---
@@ -36,6 +43,7 @@ Focus on:
 ## 🧑‍💻 Developer Notes
 
 Perfect for React + Tailwind setup:
+
 - Add `backdrop-filter` for glass blur
 - Use `scroll snapping` for smooth transitions
 - Could be converted to **Shopify landing** with animations
